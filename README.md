@@ -1,4 +1,4 @@
-<img align="left" width="250" height="250" src="academic_search_engine.png"> <br>
+<img align="left" width="250" height="250" src="academic_search_engine_logo.png"> <br>
 
 <br>
 
