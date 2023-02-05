@@ -1,0 +1,7 @@
+MANIFEST.in
+README.md
+setup.py
+academic_search_engine.egg-info/PKG-INFO
+academic_search_engine.egg-info/SOURCES.txt
+academic_search_engine.egg-info/dependency_links.txt
+academic_search_engine.egg-info/top_level.txt
